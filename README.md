@@ -1,4 +1,6 @@
 # A-summary-of-SVG
+
+翻译w3c ,  ` <https://www.w3.org/Graphics/SVG/IG/resources/svgprimer.html> `
 就是一个学习笔记，参考很多网站。稍后都列上来
 
 ## 摘要
