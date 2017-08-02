@@ -1,0 +1,10 @@
+node_modules
+npm-debug.log
+*.DS_Store
+help/dist/*
+about/dist/*
+promo/dist/*
+*/dist/*
+*dist*
+*.vscode*
+*.vscode
